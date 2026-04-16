@@ -15,5 +15,7 @@ Find the dot with the highest Sharpe
 some limitations i noticed but haven't improved:
 
 Backward-looking model: assumes future behaviour mirrors historical data
+
 Monte Carlo gives slightly different weights each run due to randomness
+
 ps. this is just a pet/passion project, feel free to let me know any other areas of improvements doing this because i am an active trader in my own time, as well as an undergraduate studying EEE, looking to specialise in software!
